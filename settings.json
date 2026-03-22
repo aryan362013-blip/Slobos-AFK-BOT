@@ -8,7 +8,7 @@
   "server": {
     "ip": "hilsha.aternos.host:34766",
     "port": 34766,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
